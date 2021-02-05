@@ -1,6 +1,6 @@
 # Devpost Video Downloader
 
-This script will download all the videos inside of the Devpost CSV and will name them in order.
+This script will download all the videos inside of the Devpost CSV.
 
 ## Instructions
 1. Download Devpost project data WITHOUT PII
